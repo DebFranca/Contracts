@@ -1,0 +1,11 @@
+C:\Users\Dell\Documents\Documents\curscoC#\Udemy\SecaoNove\Course\Course\bin\Debug\netcoreapp3.0\Course.exe
+C:\Users\Dell\Documents\Documents\curscoC#\Udemy\SecaoNove\Course\Course\bin\Debug\netcoreapp3.0\Course.deps.json
+C:\Users\Dell\Documents\Documents\curscoC#\Udemy\SecaoNove\Course\Course\bin\Debug\netcoreapp3.0\Course.runtimeconfig.json
+C:\Users\Dell\Documents\Documents\curscoC#\Udemy\SecaoNove\Course\Course\bin\Debug\netcoreapp3.0\Course.runtimeconfig.dev.json
+C:\Users\Dell\Documents\Documents\curscoC#\Udemy\SecaoNove\Course\Course\bin\Debug\netcoreapp3.0\Course.dll
+C:\Users\Dell\Documents\Documents\curscoC#\Udemy\SecaoNove\Course\Course\bin\Debug\netcoreapp3.0\Course.pdb
+C:\Users\Dell\Documents\Documents\curscoC#\Udemy\SecaoNove\Course\Course\obj\Debug\netcoreapp3.0\Course.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Documents\curscoC#\Udemy\SecaoNove\Course\Course\obj\Debug\netcoreapp3.0\Course.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Documents\curscoC#\Udemy\SecaoNove\Course\Course\obj\Debug\netcoreapp3.0\Course.AssemblyInfo.cs
+C:\Users\Dell\Documents\Documents\curscoC#\Udemy\SecaoNove\Course\Course\obj\Debug\netcoreapp3.0\Course.dll
+C:\Users\Dell\Documents\Documents\curscoC#\Udemy\SecaoNove\Course\Course\obj\Debug\netcoreapp3.0\Course.pdb
